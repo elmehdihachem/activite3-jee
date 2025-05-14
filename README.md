@@ -37,7 +37,7 @@ L'objectif de cette activité est de mettre en œuvre une application Web compl�
 - Maven
 
 ---
-Réalisé par : *ELYAMANI Hajar*  
+Réalisé par : *HACHEM Elmehdi*  
 
 
 
